@@ -1,0 +1,15 @@
+{
+  "title": "Git & GitHub Learning",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Introduction to Git",
+      "content": "Git is a distributed version control system."
+    },
+    {
+      "id": 2,
+      "title": "Basic Commands",
+      "content": "git init, git clone, git add, git commit, git push."
+    }
+  ]
+}
